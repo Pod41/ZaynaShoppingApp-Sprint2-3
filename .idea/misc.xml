@@ -3,9 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/drawable/ic_basket.xml" value="0.2265" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/drawable/ic_catalog.xml" value="0.2265" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/drawable/ic_checkout.xml" value="0.2265" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/drawable/ic_profile.xml" value="0.2265" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/layout/activity_login.xml" value="0.536" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/layout/basket_item.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/layout/fragment_checkout.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/layout/fragment_item.xml" value="0.536" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/layout/fragment_shopping.xml" value="0.4" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/layout/shopping_item.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/ZaynaShop/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25" />
       </map>
     </option>
   </component>
